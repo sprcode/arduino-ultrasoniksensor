@@ -1,7 +1,7 @@
 # Arduino Ultrasonik Sensor ile Mesafe Ölçümü
 
 Detaylı bilgi ve kod açıklamaları için https://sprcode.com/ultrasoniksensor/335/
-
+Kütüphanede ekte vardır. Onunla alakalı örnekte verilmiştir.
 <h2>Malzeme Listesi</h2>
   <ul>
     <li>Arduino Uno</li>
